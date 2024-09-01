@@ -4,6 +4,9 @@
 ### conda install and activate
 `
 conda install -c conda-forge -c bioconda -c defaults abricate
+`
+
+`
 conda activate abricate
 `
 
